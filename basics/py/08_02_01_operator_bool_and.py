@@ -5,7 +5,6 @@ def operate_bool_and(num):
     else:
         print('  num is not "positive odd"')
 
-
 print('num = 5')
 operate_bool_and(5)
 
